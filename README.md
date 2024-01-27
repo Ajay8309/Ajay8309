@@ -15,7 +15,7 @@ I'm open to collaboration on interesting projects, especially those related to e
 Feel free to reach out if you have questions about Shringar, React, JavaScript, Node.js, or anything related to web development.
 
 📫 **How to Reach Me:**
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [Twitter](https://twitter.com/your-twitter-handle).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/ajayPanaskar/) or [Twitter](https://twitter.com/your-twitter-handle).
 
 😄 **Pronouns:**
 He/Him
