@@ -17,9 +17,6 @@ Feel free to reach out if you have questions about Shringar, React, JavaScript, 
 📫 **How to Reach Me:**
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ajayPanaskar/) or [Twitter](https://twitter.com/your-twitter-handle).
 
-😄 **Pronouns:**
-He/Him
-
 
 <!--
 **Ajay8309/Ajay8309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
