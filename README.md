@@ -2,7 +2,7 @@
 
 # Hey, I'm Ajay 👋
 
-**Full-Stack Developer · MCA @ MIT WPU, Pune**
+**Full-Stack Developer · MCA, MIT WPU, Pune**
 
 Building scalable e-commerce platforms & solving problems one commit at a time.
 
@@ -61,7 +61,7 @@ Building scalable e-commerce platforms & solving problems one commit at a time.
 
 ## 🌱 Currently
 
-- 🎓 Pursuing **MCA** from **MIT WPU, Pune**
+- 🎓 Completed **MCA** from **MIT WPU, Pune**
 - 🔨 Shipping features for [maali.live](https://maali.live)
 - 🧠 Sharpening DSA skills on LeetCode
 - 🤝 Open to collaborating on **e-commerce**, **web dev**, and **full-stack** projects
