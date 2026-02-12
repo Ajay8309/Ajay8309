@@ -1,23 +1,75 @@
-### Hi there 👋
+<div align="center">
 
-I'm Ajay, a passionate developer currently working on a project called Shringar. Shringar is a full-stack e-commerce platform crafted using cutting-edge technologies, including React, Context API, Node.js, Express, and PostgreSQL.
+# Hey, I'm Ajay 👋
 
-🌱 **Currently Learning:**
-I'm currently learning and exploring JavaScript and Node.js. I enjoy solving LeetCode problems in my free time to sharpen my problem-solving skills.
+**Full-Stack Developer · MCA @ MIT WPU, Pune**
 
-📚 **Education:**
-I'm pursuing MCA from MIT WPU, Pune.
+Building scalable e-commerce platforms & solving problems one commit at a time.
 
-👯 **Looking to Collaborate On:**
-I'm open to collaboration on interesting projects, especially those related to e-commerce, web development, and innovative technologies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajayPanaskar/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ajay8309/)
 
-💬 **Ask Me About:**
-Feel free to reach out if you have questions about Shringar, React, JavaScript, Node.js, or anything related to web development.
+</div>
 
-📫 **How to Reach Me:**
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/ajayPanaskar/) or [Twitter](https://twitter.com/your-twitter-handle).
+---
 
+## 🚀 What I'm Building
 
-<!--
-**Ajay8309/Ajay8309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### [Maali](https://maali.live) — E-Commerce + Gardener Booking Platform
+> A production-grade MERN stack app for organic fertilizers & on-demand gardening services.
+
+`React` `Node.js` `MongoDB` `Redis` `Razorpay` `Docker` `CI/CD`
+
+- 🛒 Full e-commerce flow with Razorpay payments & invoice generation
+- 👨‍🌾 "Book a Maali" service scheduling system
+- 📊 Admin dashboard with analytics, order management & coupon engine
+- ⚡ Optimized with React Query, lazy loading & Redis caching
+
+### Shringar — Jewelry E-Commerce Platform
+> A full-stack e-commerce platform for jewelry, built with modern architecture.
+
+`React` `Node.js` `Express` `PostgreSQL` `Context API`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Frontend | Backend | Database & Cache | DevOps |
+|:---:|:---:|:---:|:---:|
+| React.js | Node.js | MongoDB | Docker |
+| Tailwind CSS | Express.js | PostgreSQL | GitHub Actions |
+| React Query | REST APIs | Redis | Kubernetes |
+| Vite | JWT Auth | Mongoose | Render |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ajay8309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay8309&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🌱 Currently
+
+- 🎓 Pursuing **MCA** from **MIT WPU, Pune**
+- 🔨 Shipping features for [maali.live](https://maali.live)
+- 🧠 Sharpening DSA skills on LeetCode
+- 🤝 Open to collaborating on **e-commerce**, **web dev**, and **full-stack** projects
+
+---
+
+<div align="center">
+
+💬 *Got a project idea or want to collaborate? Let's connect!*
+
+</div>
